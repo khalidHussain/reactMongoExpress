@@ -26,6 +26,9 @@ build/Release
 # Dependency directory
 node_modules
 
+# idea files from tools
+.idea
+
 # Optional npm cache directory
 .npm
 
